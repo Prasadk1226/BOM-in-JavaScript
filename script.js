@@ -26,6 +26,7 @@ prev.addEventListener("click",()=>{
 
 next.addEventListener("click",()=>{
     history.forward()
+    
 })
 
 
