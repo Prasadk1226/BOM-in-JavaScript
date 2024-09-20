@@ -1,7 +1,7 @@
 
 let page=document.getElementById("page")
 let page1=document.getElementById("page1")
-let page2=document.getAnimations("page2")
+let close=document.getAnimations("page2")
 let prev=document.getAnimations("prev")
 let next=document.getAnimations("next")
 
