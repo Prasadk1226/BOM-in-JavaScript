@@ -15,6 +15,10 @@ page1.addEventListener("click",()=>{
     window.open("https://prasadk1226.github.io/BOM-in-JavaScript/")
 })
 
+close.addEventListener("click",()=>{
+    window.close()
+})
+
 
 
 
