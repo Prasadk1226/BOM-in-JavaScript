@@ -7,8 +7,8 @@ let next=document.getElementById("next")
 
 
 page.addEventListener("click",()=>{
-    location.assign("https://github.com/Prasadk1226")
-    // window.open("https://github.com/Prasadk1226")
+    // location.assign("https://github.com/Prasadk1226")
+    window.open("https://github.com/Prasadk1226")
 })
 
 page1.addEventListener("click",()=>{
