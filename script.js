@@ -2,8 +2,8 @@
 let page=document.getElementById("page")
 let page1=document.getElementById("page1")
 let close1=document.getElementById("page2")
-let prev=document.getElementById("prev")
-let next=document.getElementById("next")
+let prev1=document.getElementById("prev")
+let next1=document.getElementById("next")
 
 
 page.addEventListener("click",()=>{
@@ -20,13 +20,13 @@ page1.addEventListener("click",()=>{
 close1.addEventListener("click",()=>{
     window.close()
 })
-prev.addEventListener("click",()=>{
+prev1.addEventListener("click",()=>{
     history.back()
 })
 
-next.addEventListener("click",()=>{
+next1.addEventListener("click",()=>{
     history.forward()
-    
+
 })
 
 
