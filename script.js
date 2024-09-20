@@ -11,6 +11,10 @@ page.addEventListener("click",()=>{
     window.open("https://github.com/Prasadk1226")
 })
 
+page1.addEventListener("click",()=>{
+    window.open("https://prasadk1226.github.io/BOM-in-JavaScript/")
+})
+
 
 
 
