@@ -21,6 +21,7 @@ page1.addEventListener("click",()=>{
 
 
 
+
 // window.alert("Hey Hi! Welcome.")
 // let wish= window.prompt("Enter your Name")
 // window.confirm("Is your  name "+wish+"?")
