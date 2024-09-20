@@ -1,6 +1,7 @@
 
 let page=document.getElementById("page")
 let page1=document.getElementById("page1")
+let newpage=document.getElementById("page3")
 let close1=document.getElementById("page2")
 let prev1=document.getElementById("prev")
 let next1=document.getElementById("next")
@@ -14,6 +15,10 @@ page.addEventListener("click",()=>{
 page1.addEventListener("click",()=>{
     // location.assign("https://prasadk1226.github.io/BOM-in-JavaScript/")
     window.open("https://prasadk1226.github.io/BOM-in-JavaScript/")
+
+})
+newpage.addEventListener("click",()=>{
+    location.assign("https://prasadk1226.github.io/BOM-in-JavaScript/")
 
 })
 
