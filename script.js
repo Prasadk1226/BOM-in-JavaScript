@@ -12,7 +12,9 @@ page.addEventListener("click",()=>{
 })
 
 page1.addEventListener("click",()=>{
-    location.assign("https://prasadk1226.github.io/BOM-in-JavaScript/")
+    // location.assign("https://prasadk1226.github.io/BOM-in-JavaScript/")
+    window.open("https://prasadk1226.github.io/BOM-in-JavaScript/")
+
 })
 
 close1.addEventListener("click",()=>{
