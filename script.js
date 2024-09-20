@@ -1,7 +1,7 @@
 
 let page=document.getElementById("page")
 let page1=document.getElementById("page1")
-let close=document.getAnimations("page2")
+let close1=document.getAnimations("page2")
 let prev=document.getAnimations("prev")
 let next=document.getAnimations("next")
 
@@ -15,7 +15,7 @@ page1.addEventListener("click",()=>{
     location.assign("https://prasadk1226.github.io/BOM-in-JavaScript/")
 })
 
-close.addEventListener("click",()=>{
+close1.addEventListener("click",()=>{
     window.close()
 })
 prev.addEventListener("click",()=>{
