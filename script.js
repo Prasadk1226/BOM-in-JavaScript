@@ -1,9 +1,9 @@
 
 let page=document.getElementById("page")
 let page1=document.getElementById("page1")
-let close1=document.getAnimations("page2")
-let prev=document.getAnimations("prev")
-let next=document.getAnimations("next")
+let close1=document.getElementById("page2")
+let prev=document.getElementById("prev")
+let next=document.getElementById("next")
 
 
 page.addEventListener("click",()=>{
