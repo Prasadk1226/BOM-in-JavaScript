@@ -18,6 +18,9 @@ page1.addEventListener("click",()=>{
 close.addEventListener("click",()=>{
     window.close()
 })
+prev.addEventListener("click",()=>{
+    history.back()
+})
 
 
 
